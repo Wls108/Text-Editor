@@ -8,8 +8,8 @@ This application is a simple text editor that can be downloaded and used offline
 
  https://floating-chamber-73639.herokuapp.com
  
- src="https://cdn.discordapp.com/attachments/320958525998366720/970289806426923048/20220501_074454.jpg" width="200" height="400" />
 
+https://cdn.discordapp.com/attachments/320958525998366720/970289806426923048/20220501_074454.jpg
 
 ## User Story
 
